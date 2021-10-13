@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="CF - Jurados de votaci&amp;#243;n" />
+              <option name="title_text" value="CF1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1525,23 +1525,18 @@
             <slidelink slideid="_player.6CMzYQku2V0.6r3m75wu3Nv" displaytext="Home" expand="false" type="slide" />
             <slidelink slideid="_player.6CMzYQku2V0.5sUvrIXIpus" displaytext="Intro" expand="false" type="slide" />
             <slidelink slideid="_player.6CMzYQku2V0.6lzwe06RXRP" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6RccSOROeG6" displaytext="Tema1" expand="false" type="slide" />
             <slidelink slideid="_player.6CMzYQku2V0.6bVhIU1uK6w" displaytext="Tema1" expand="false" type="slide" />
             <slidelink slideid="_player.6CMzYQku2V0.6LQIzQFsH8A" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6mWXzScjQRx" displaytext="Tema1" expand="false" type="slide" />
             <slidelink slideid="_player.6CMzYQku2V0.6GPsK2AakFI" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6PaoFDh69dT" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5mhf0A3VBt8" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5na2if0JhQj" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6pSfoztSNom" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5gZ7JOJHyrD" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5mVQXu5MUS6" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6knsNU3Te54" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5keSlbiTuBL" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6bAxyRnltyg" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5ysqgZsdBiu" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.5g3oMz1sFEI" displaytext="Tema1" expand="false" type="slide" />
-            <slidelink slideid="_player.6CMzYQku2V0.6IeyyK3QVXK" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.60GeuMOrCBD" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.6V0twTXdg5U" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.5n9MNEQjLjK" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.5V3QnC1kykr" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.6JU1RIfjtLT" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.6ASYYuw9OWH" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.5VMl8vOERtY" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.5jXDGtcyiwb" displaytext="Tema1" expand="false" type="slide" />
+            <slidelink slideid="_player.6CMzYQku2V0.6EpkNLBObE9" displaytext="Tema1" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5eylWAIXfLd" displaytext="Actividades" expand="true" type="slide">
@@ -1572,11 +1567,6 @@
         <slidelink slideid="_player.6SHMSbUJB1Y" displaytext="Actividades" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6SHMSbUJB1Y.6IjfS0ljOpm" displaytext="Arrastrar y soltar" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6IuoXdB5YUn" displaytext="Actividades" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6IuoXdB5YUn.6DWnDQlJwQp" displaytext="Verdadero/Falso" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
